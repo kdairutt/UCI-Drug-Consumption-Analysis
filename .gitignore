@@ -13,3 +13,6 @@ __pycache__/
 
 # vscode
 .vscode/
+
+# macOS finder trash file
+.DS_Store
